@@ -22,7 +22,8 @@ const links = [
         "url": "https://x.com/liquisdigital"
     },
     {
-        "url": "https://liquisdigital.com/start/"
+        "url": "https://liquisdigital.com/start/",
+        favicon: 'https://liquisdigital.com/wp-content/uploads/2016/05/LiquisLogo_black_favicon.png'
     },
     {
         "url": "https://www.tiktok.com/@thebradball?lang=en"
